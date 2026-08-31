@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 094
+# 🦁 XXD Panel 094｜古典二色刷りの本
 
 ### 細い墨線、単一特色、広い余白で写真を古書挿絵へ
 

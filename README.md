@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 094
+# 🦁 XXD Panel 094｜古典双色书
 
 ### 把照片化成一页细墨线、单一专色与辽阔留白的古典书籍插画
 

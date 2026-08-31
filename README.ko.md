@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 094
+# 🦁 XXD Panel 094｜고전 2색 책
 
 ### 가는 먹선, 단일 별색, 넓은 여백으로 사진을 고전 서적 삽화로
 

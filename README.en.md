@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 094
+# 🦁 XXD Panel 094｜Classic Two-Color Book
 
 ### Recompose photographs as quiet vintage book plates in fine ink, one spot colour, and expansive paper space
 
