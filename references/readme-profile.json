@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 094｜Classic Two-Color Book: redraws the subject, pose and story of a photo as an early twentieth-century book plate in pen and ink with one spot colour — fine restrained ink lines, a few solid blacks and light hatching, a single colour taken from the photo and used only on a few key areas, the subject small and isolated in very large negative space on warm old paper or ivory, an optional thin hand-drawn decorative border or corner ornaments, faint paper fibre and slight misregistration, and a few words in a thin classical book typeface placed like a running head, margin note or epigraph. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-094 or asks for vintage book illustration, pen-and-ink with spot colour, or two-colour print illustration from a photo.",
+  "short_description": "古典双色书：把照片画成细墨线加一种专色、大片纸白的旧书插图",
+  "zh-CN": {
+    "name": "古典双色书",
+    "tagline": "把照片画成一页细墨线、一种专色和大片留白的旧书插图。",
+    "look": "主体用纤细克制的墨线重画，只在少数地方压一点实黑、加几道排线，复杂背景几乎全部去掉。颜色只有黑墨加一种专色，专色从照片里最有代表性的颜色提纯而来，只落在衣服、一扇窗、一朵花或光线这类关键处。主体往往被缩小、偏到一边，四周是大片旧纸色或象牙白，可加一圈略带手工误差的细边框或角花，带轻微纸纤维和套印偏差。文字很少，用纤细的古典铅字体，像页眉、边注或扉页题记一样印在书页里。",
+    "traits": ["纤细墨线", "局部实黑", "单一专色", "极大负空间", "手绘装饰边框", "旧式书页排版"],
+    "good": [
+      "有一个安静主体的照片：窗前的人、一只鸟、一棵树、一座小房子",
+      "带一点情绪或故事的瞬间：孩子放风筝、一个人撑伞走路、猫望着窗外",
+      "适合做诗集扉页、童书插图、藏书票或文章题图的照片"
+    ],
+    "poor": [
+      "颜色丰富、靠满幅色彩打动人的照片，最后只会剩下一种颜色",
+      "人多、元素多、需要逐一保留的场景：集市、合影、展会现场",
+      "想要完整上色、水彩风景、现代卡通或重度做旧效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Classic Two-Color Book",
+    "tagline": "Turns a photo into an old book plate of fine ink lines, one spot colour and wide open paper.",
+    "look": "The subject is redrawn in fine, restrained ink lines, with solid black and a little hatching in only a few places, and most of the busy background simply disappears. The colour is black ink plus one spot colour, distilled from the most telling colour in the photo and placed only on key spots such as a coat, a window, a flower or a patch of light. The subject is often small and off to one side within large fields of old-paper or ivory tone, sometimes inside a thin, slightly hand-wobbled border or corner ornaments, with faint paper fibre and misregistration. Text is sparse, set in a thin classical book face like a running head, margin note or frontispiece epigraph.",
+    "traits": ["Fine ink lines", "Spot solid black", "One spot colour", "Extreme negative space", "Hand-drawn border", "Old book layout"],
+    "good": [
+      "Photos with one quiet subject: a person at a window, a bird, a tree, a small house",
+      "Moments with a mood or a story: a child flying a kite, someone walking under an umbrella, a cat looking outside",
+      "Photos meant for a poetry frontispiece, a children's book plate, a bookplate or an article header"
+    ],
+    "poor": [
+      "Colour-rich photos whose impact comes from full colour, since only one colour will remain",
+      "Busy scenes where many people or things must all be kept: markets, group photos, trade fairs",
+      "Requests for full colour, watercolour landscapes, modern cartoons or heavy ageing effects"
+    ]
+  },
+  "ja": {
+    "name": "古典二色刷りの本",
+    "tagline": "写真を、細い墨線と一色の特色、広い余白でできた古い本の挿絵にします。",
+    "look": "主役は細く控えめな墨線で描き直し、ベタの黒と少しのハッチングはごく一部だけ。込み入った背景はほとんど消えます。色は黒インクと特色一色だけで、特色は写真でいちばん象徴的な色を澄ませたもの。服、窓、一輪の花、光など要所にだけ置かれます。主役は小さく片側に寄せられることが多く、周りは古紙色やアイボリーの広い余白。手仕事の揺れがある細い飾り枠や角飾りを添えることもあり、紙の繊維や版ずれがかすかに残ります。文字は少なく、細い古典的な活字体で柱、傍注、扉の題辞のように本のページに刷られています。",
+    "traits": ["細い墨線", "部分的なベタ黒", "特色一色", "大きな余白", "手描きの飾り枠", "古い本の組版"],
+    "good": [
+      "静かな主役がひとつある写真：窓辺の人、一羽の鳥、一本の木、小さな家",
+      "気分や物語のある瞬間：凧を揚げる子ども、傘をさして歩く人、窓の外を見る猫",
+      "詩集の扉、絵本の挿絵、蔵書票、記事の扉絵にしたい写真"
+    ],
+    "poor": [
+      "色の豊かさで見せる写真（最後には一色しか残りません）",
+      "人や物が多く、どれも残したい場面：市場、集合写真、展示会",
+      "全面の彩色、水彩の風景、現代的なカートゥーン、強いエイジング加工を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "고전 2색 책",
+    "tagline": "사진을 가는 먹선과 별색 하나, 넓은 여백으로 된 옛 책 삽화로 바꿉니다.",
+    "look": "주인공은 가늘고 절제된 먹선으로 다시 그리고, 먹 채움과 약간의 해칭은 몇 군데에만 씁니다. 복잡한 배경은 거의 사라집니다. 색은 검은 잉크와 별색 하나뿐이며, 별색은 사진에서 가장 상징적인 색을 맑게 다듬어 옷, 창문, 꽃 한 송이, 빛 같은 핵심 부분에만 놓습니다. 주인공은 작게 한쪽으로 비켜 앉는 경우가 많고, 주위는 옛 종이색이나 아이보리의 넓은 여백입니다. 손맛이 남은 가는 장식 테두리나 모서리 장식을 더하기도 하며, 종이 섬유와 인쇄 어긋남이 옅게 남습니다. 글자는 적고, 가는 고전 활자체로 머리말, 방주, 속표지 제사처럼 책장에 인쇄된 듯 놓입니다.",
+    "traits": ["가는 먹선", "부분 먹 채움", "단일 별색", "극단적 여백", "손그림 장식 테두리", "옛 책 조판"],
+    "good": [
+      "조용한 주인공 하나가 있는 사진: 창가의 사람, 새 한 마리, 나무 한 그루, 작은 집",
+      "감정이나 이야기가 담긴 순간: 연 날리는 아이, 우산 쓰고 걷는 사람, 창밖을 보는 고양이",
+      "시집 속표지, 동화책 삽화, 장서표, 글 머리 그림으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "풍부한 색으로 감동을 주는 사진(결국 한 가지 색만 남습니다)",
+      "사람과 물건이 많고 모두 살려야 하는 장면: 시장, 단체 사진, 전시장",
+      "전체 채색, 수채 풍경, 현대적 카툰, 강한 빈티지 효과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كتاب كلاسيكي بلونين",
+    "tagline": "يحوّل الصورة إلى لوحة من كتاب قديم بخطوط حبر رفيعة ولون خاص واحد وورق واسع الفراغ.",
+    "look": "يُعاد رسم العنصر بخطوط حبر رفيعة متحفظة، مع أسود مصمت وقليل من التظليل في مواضع معدودة فقط، وتختفي الخلفية المزدحمة تقريباً. الألوان حبر أسود ولون خاص واحد، يُستخلص من أكثر ألوان الصورة دلالة ويوضع فقط على مواضع أساسية مثل معطف أو نافذة أو زهرة أو بقعة ضوء. كثيراً ما يكون العنصر صغيراً ومنزاحاً إلى جانب وسط مساحات واسعة بلون الورق القديم أو العاجي، وقد يحيط به إطار رفيع أو زخارف زوايا فيها ارتجاف اليد، مع ألياف ورق خفيفة وانزياح طباعي. النص قليل، بحرف طباعي كلاسيكي رفيع، كترويسة صفحة أو حاشية أو إهداء في صفحة العنوان.",
+    "traits": ["خطوط حبر رفيعة", "أسود مصمت موضعي", "لون خاص واحد", "فراغ سلبي واسع", "إطار زخرفي يدوي", "تنضيد كتب قديمة"],
+    "good": [
+      "صور فيها عنصر واحد هادئ: شخص عند نافذة، طائر، شجرة، بيت صغير",
+      "لحظات فيها مزاج أو حكاية: طفل يطيّر طائرة ورقية، شخص يمشي تحت مظلة، قطة تنظر إلى الخارج",
+      "صور تريدها لصفحة عنوان ديوان شعر أو رسماً في كتاب أطفال أو ملصق مكتبة أو صورة رأس لمقال"
+    ],
+    "poor": [
+      "صور غنية بالألوان يقوم أثرها على اللون الكامل، إذ لن يبقى إلا لون واحد",
+      "مشاهد مزدحمة يجب الإبقاء على كل ما فيها من أشخاص وأشياء: الأسواق، الصور الجماعية، المعارض",
+      "طلب تلوين كامل أو مناظر بالألوان المائية أو كرتون حديث أو تعتيق ثقيل"
+    ]
+  }
+}
